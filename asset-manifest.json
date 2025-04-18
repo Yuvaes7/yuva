@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yuva/static/css/main.76d35a8e.css",
+    "main.js": "/yuva/static/js/main.7f28134e.js",
+    "static/js/453.706358b8.chunk.js": "/yuva/static/js/453.706358b8.chunk.js",
+    "index.html": "/yuva/index.html",
+    "main.76d35a8e.css.map": "/yuva/static/css/main.76d35a8e.css.map",
+    "main.7f28134e.js.map": "/yuva/static/js/main.7f28134e.js.map",
+    "453.706358b8.chunk.js.map": "/yuva/static/js/453.706358b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76d35a8e.css",
+    "static/js/main.7f28134e.js"
+  ]
+}
